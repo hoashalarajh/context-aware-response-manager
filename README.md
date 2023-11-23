@@ -1,4 +1,4 @@
-# Companion Chat system for Verbally Challenged Children
+# Companion Chat system for Verbally Challenged Children - A Context-aware response manager
 This proposed context-aware response manager is designed to serve as a virtual companion for verbally challenged children, particularly during their leisure time. It aims to address the loneliness and isolation often experienced by this population by providing a friendly and engaging conversational partner.
 The system utilizes text-based inputs from the user and generates voice responses, enabling interaction with children who may have difficulty with traditional text-based communication methods. By adapting its responses to the user's context and preferences, the system fosters a personalized and engaging experience.
 The overarching goal of the context-aware response manager is to alleviate stress and promote positive mental well-being in verbally challenged children during their leisure time. By providing friendly and engaging interactions, the system encourages positive social interaction and helps children develop their communication skills.
